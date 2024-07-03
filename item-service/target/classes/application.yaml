@@ -1,0 +1,14 @@
+server:
+  port: 8081
+feign:
+  okhttp:
+    enabled: true
+  sentinel:
+    enabled: true
+
+hm:
+  db:
+    database: hm-item
+  swagger:
+    title: "黑马商城商品服务接口文档"
+    package: com.hmall.item.controller

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\filters\MyGlobalFilter.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\SecurityConfig.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\GatewayApplication.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\route\DynamicRouteLoader.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\util\JwtTool.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\filters\AuthGlobalFilter.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\AuthProperties.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\JwtProperties.java
+C:\Users\Administrator\Desktop\Code\Java\hmall\hm-gateway\src\main\java\com\hmall\gateway\filters\PrintAnyGatewayFilterFactory.java

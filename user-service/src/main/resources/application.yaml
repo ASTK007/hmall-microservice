@@ -1,0 +1,15 @@
+server:
+  port: 8084
+
+hm:
+  jwt:
+    location: classpath:hmall.jks
+    alias: hmall
+    password: hmall123
+    tokenTTL: 30m
+
+  swagger:
+    title: 用户接口文档
+    package: com.hmall.user.controller
+  db:
+    database: hm-user

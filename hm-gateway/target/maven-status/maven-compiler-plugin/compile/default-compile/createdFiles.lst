@@ -1,0 +1,11 @@
+com\hmall\gateway\filters\PrintAnyGatewayFilterFactory.class
+com\hmall\gateway\util\JwtTool.class
+com\hmall\gateway\config\SecurityConfig.class
+com\hmall\gateway\GatewayApplication.class
+com\hmall\gateway\config\JwtProperties.class
+com\hmall\gateway\filters\PrintAnyGatewayFilterFactory$1.class
+com\hmall\gateway\route\DynamicRouteLoader$1.class
+com\hmall\gateway\route\DynamicRouteLoader.class
+com\hmall\gateway\config\AuthProperties.class
+com\hmall\gateway\filters\AuthGlobalFilter.class
+com\hmall\gateway\filters\MyGlobalFilter.class

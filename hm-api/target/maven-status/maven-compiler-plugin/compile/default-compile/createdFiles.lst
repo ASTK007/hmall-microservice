@@ -1,0 +1,10 @@
+com\hmall\api\config\DefaultFeignConfig.class
+com\hmall\api\dto\ItemDTO.class
+com\hmall\api\dto\OrderDetailDTO.class
+com\hmall\api\client\ItemClient.class
+com\hmall\api\client\fallback\ItemClientFallback$1.class
+com\hmall\api\client\CartClient.class
+com\hmall\api\client\UserClient.class
+com\hmall\api\config\DefaultFeignConfig$1.class
+com\hmall\api\client\TradeClient.class
+com\hmall\api\client\fallback\ItemClientFallback.class
